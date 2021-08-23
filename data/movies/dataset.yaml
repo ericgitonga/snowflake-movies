@@ -1,0 +1,9 @@
+apiVersion: 1
+
+name: "movies"
+type: source
+
+materializations:
+  - type: table
+    target: layersn
+    table_name: "movies"

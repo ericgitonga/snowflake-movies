@@ -1,0 +1,10 @@
+apiVersion: 1
+
+name: "model"
+description: "Predicts the success of a movie"
+
+training:
+  name: "model_training"
+  description: "Movie Success Model Training"
+  entrypoint: model.py
+  environment: requirements.txt

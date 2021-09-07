@@ -5,5 +5,5 @@ type: source
 
 materializations:
   - type: table
-    target: layersn
+    target: snowflakelayer
     table_name: "movies"

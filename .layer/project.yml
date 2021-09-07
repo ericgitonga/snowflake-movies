@@ -3,5 +3,5 @@ apiVersion: 1
 name: "Snowflake Movie Success Prediction Project"
 
 integrations:
-  layersn:
+  snowflakelayer:
     type: snowflake

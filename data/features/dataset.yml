@@ -32,4 +32,4 @@ schema:
   primary_keys: ["movie_id"]
 
 materializations:
-  - target: layersn
+  - target: snowflakelayer
